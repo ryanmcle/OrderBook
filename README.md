@@ -4,6 +4,8 @@ A Python application that simulates an order book for trading financial instrume
 
 ## **Video**
 
+![Order Book Video](https://github.com/ryanmcle/OrderBook/blob/main/ScreenRecording2025-01-09190043-ezgif.com-video-to-gif-converter.gif)
+
 ## **Features**
 
 - **GUI Application:** User-friendly interface built with Tkinter.
