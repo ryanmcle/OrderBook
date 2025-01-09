@@ -26,5 +26,5 @@ A Python application that simulates an order book for trading financial instrume
 - **Python 3**
 - **Tkinter** for GUI development
 - **SQLite3** for database management
-- **yfinance** for fetching stock market data
+- **yFinance** for fetching stock market data
 - **Git** and **GitHub** for version control
