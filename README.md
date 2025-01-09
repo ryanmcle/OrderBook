@@ -1,6 +1,6 @@
 # **Stock Order Book**
 
-A Python application that simulates an order book for trading financial instruments (stocks). The system allows users to place buy and sell orders, view the current order book, match and execute orders, and visualize trade history. The project uses a GUI built with Tkinter and stores data in an SQLite database.
+A Python application that simulates an order book for trading equities, by matching ticker to current prices and estimating a variety of bid-ask prices from varying market makers. The system allows users to place buy and sell orders, view the current order book, match and execute orders, and visualize trade history. The project uses a GUI built with Tkinter and stores data in an SQLite database.
 
 ## **Video**
 
