@@ -17,9 +17,7 @@ A Python application that simulates an order book for trading financial instrume
 
 ## **Screenshot**
 
-![Order Book GUI Screenshot](images/order_book_gui.png)
-
-*Include a screenshot of your application here. To add the image to your README, place it in your repository's `images` directory and reference its path.*
+![Order Book GUI Screenshot](images/.OrderBook.png)
 
 ## **Technologies Used**
 
