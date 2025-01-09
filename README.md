@@ -17,7 +17,7 @@ A Python application that simulates an order book for trading financial instrume
 
 ## **Screenshot**
 
-![Order Book GUI Screenshot](OrderBook/.OrderBook.png)
+![Order Book GUI Screenshot](https://github.com/ryanmcle/OrderBook/blob/main/OrderBook.png)
 
 ## **Technologies Used**
 
